@@ -1,0 +1,28 @@
+{
+  "ccusageVersion": "20.0.48",
+  "collectedAt": "2026-11-09T11:43:36Z",
+  "date": "2026-10-12",
+  "host": "pc-a",
+  "sources": {
+    "claude": {
+      "cacheCreation": 1801661,
+      "cacheRead": 163310496,
+      "costUSD": 55.764811,
+      "input": 906,
+      "models": {
+        "claude-opus-5-5": {
+          "cacheCreation": 1801661,
+          "cacheRead": 163310496,
+          "costUSD": 55.764811,
+          "input": 906,
+          "output": 434290,
+          "total": 165547353
+        }
+      },
+      "output": 434290,
+      "total": 165547353
+    }
+  },
+  "status": "final",
+  "timezone": "Asia/Dhaka"
+}

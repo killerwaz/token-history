@@ -1,0 +1,29 @@
+{
+  "ccusageVersion": "20.0.48",
+  "collectedAt": "2026-11-09T11:43:36Z",
+  "date": "2026-10-15",
+  "host": "pc-a",
+  "sources": {
+    "codex": {
+      "cacheCreation": 0,
+      "cacheRead": 1184256,
+      "costUSD": 0.020649,
+      "input": 62480,
+      "models": {
+        "gpt-6-luna": {
+          "cacheCreation": 0,
+          "cacheRead": 1184256,
+          "input": 62480,
+          "output": 5117,
+          "reasoningOutput": 2793,
+          "total": 1251853
+        }
+      },
+      "output": 5117,
+      "reasoningOutput": 2793,
+      "total": 1251853
+    }
+  },
+  "status": "final",
+  "timezone": "Asia/Dhaka"
+}

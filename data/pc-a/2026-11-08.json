@@ -1,0 +1,38 @@
+{
+  "ccusageVersion": "20.0.48",
+  "collectedAt": "2026-11-09T11:43:36Z",
+  "date": "2026-11-08",
+  "host": "pc-a",
+  "sources": {
+    "codex": {
+      "cacheCreation": 0,
+      "cacheRead": 2886400,
+      "costUSD": 0.68809,
+      "input": 166383,
+      "models": {
+        "gpt-5.6-luna": {
+          "cacheCreation": 0,
+          "cacheRead": 6144,
+          "input": 10220,
+          "modelNameIsFallback": true,
+          "output": 143,
+          "reasoningOutput": 83,
+          "total": 16507
+        },
+        "gpt-6.1-sol": {
+          "cacheCreation": 0,
+          "cacheRead": 2880256,
+          "input": 156163,
+          "output": 8540,
+          "reasoningOutput": 822,
+          "total": 3044959
+        }
+      },
+      "output": 8683,
+      "reasoningOutput": 905,
+      "total": 3061466
+    }
+  },
+  "status": "final",
+  "timezone": "Asia/Dhaka"
+}
