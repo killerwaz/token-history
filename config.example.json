@@ -1,7 +1,7 @@
 {
-  "host": "mac-a",
+  "host": "pc-a",
 
-  "timezone": "Asia/Shanghai",
+  "timezone": "Asia/Dhaka",
 
   "sources": ["claude", "codex"],
 
@@ -15,7 +15,7 @@
   "git": {
     "enabled": true,
     "remote": "origin",
-    "branch": "main",
+    "branch": "master",
     "push_retries": 5
   },
 

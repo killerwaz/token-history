@@ -8,7 +8,9 @@ license = { text = "MIT" }
 # on a stock macOS; the interpreter uv actually provisions is pinned by
 # .python-version (3.12).
 requires-python = ">=3.9"
-dependencies = []
+# Windows ships no IANA tz database, so zoneinfo needs tzdata there. Elsewhere the
+# system copy is used and the scripts stay standard-library only.
+dependencies = ["tzdata; sys_platform == 'win32'"]
 
 [tool.uv]
 # A scripts repo, not an installable package: `uv sync` should build the
