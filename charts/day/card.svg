@@ -31,7 +31,7 @@ svg{--f:Poppins,Arial,"Helvetica Neue",sans-serif;--fs:Lora,Georgia,"Iowan Old S
 </g>
 <g class="b" style="animation-delay:210ms">
 <text class="tm" x="590" y="64" font-size="10" letter-spacing="1.8">DAILY AVG</text>
-<text class="ts" x="590" y="100" font-size="26" font-weight="700">64M</text>
+<text class="ts" x="590" y="100" font-size="26" font-weight="700">65M</text>
 <text class="tm" x="590" y="122" font-size="11">per active day</text>
 </g>
 <g class="b" style="animation-delay:300ms">
@@ -47,5 +47,5 @@ svg{--f:Poppins,Arial,"Helvetica Neue",sans-serif;--fs:Lora,Georgia,"Iowan Old S
 <circle class="s-codex" cx="667" cy="203" r="4"/>
 <text class="t2" x="677" y="207" font-size="12">Codex 0% · 6.4M</text>
 </g>
-<text class="tm" x="48" y="226" font-size="10">Generated 2026-11-09 11:51 UTC</text>
+<text class="tm" x="48" y="226" font-size="10">Generated 2026-11-09 12:06 UTC</text>
 </svg>
