@@ -1,22 +1,22 @@
 {
-  "ccusageVersion": "20.0.49",
-  "collectedAt": "2026-11-11T15:00:08Z",
+  "ccusageVersion": "20.0.50",
+  "collectedAt": "2026-11-11T18:30:13Z",
   "date": "2026-11-11",
   "host": "pc-a",
   "sources": {
     "claude": {
-      "cacheCreation": 817344,
-      "cacheRead": 8357196,
-      "costUSD": 12.55585,
-      "input": 184,
+      "cacheCreation": 879106,
+      "cacheRead": 9220263,
+      "costUSD": 12.986934,
+      "input": 200,
       "models": {
         "claude-fable-5-2": {
-          "cacheCreation": 363245,
-          "cacheRead": 7011179,
-          "costUSD": 9.62778,
-          "input": 128,
-          "output": 60315,
-          "total": 7434867
+          "cacheCreation": 367256,
+          "cacheRead": 7821474,
+          "costUSD": 9.889071,
+          "input": 140,
+          "output": 61189,
+          "total": 8250059
         },
         "claude-opus-5-5": {
           "cacheCreation": 367280,
@@ -27,18 +27,18 @@
           "total": 1055686
         },
         "claude-sonnet-5-5": {
-          "cacheCreation": 86819,
-          "cacheRead": 685106,
-          "costUSD": 0.410132,
-          "input": 22,
-          "output": 12453,
-          "total": 784400
+          "cacheCreation": 144570,
+          "cacheRead": 737878,
+          "costUSD": 0.579925,
+          "input": 26,
+          "output": 14466,
+          "total": 896940
         }
       },
-      "output": 100229,
-      "total": 9274953
+      "output": 103116,
+      "total": 10202685
     }
   },
-  "status": "partial",
+  "status": "final",
   "timezone": "Asia/Dhaka"
 }
