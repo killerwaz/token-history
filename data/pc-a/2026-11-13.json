@@ -1,22 +1,22 @@
 {
   "ccusageVersion": "20.0.50",
-  "collectedAt": "2026-11-13T15:00:07Z",
+  "collectedAt": "2026-11-13T19:20:40Z",
   "date": "2026-11-13",
   "host": "pc-a",
   "sources": {
     "claude": {
-      "cacheCreation": 275763,
-      "cacheRead": 14719057,
-      "costUSD": 5.306305,
-      "input": 278,
+      "cacheCreation": 420707,
+      "cacheRead": 55622590,
+      "costUSD": 15.873144,
+      "input": 658,
       "models": {
         "claude-opus-5-5": {
-          "cacheCreation": 90052,
-          "cacheRead": 9282118,
-          "costUSD": 3.033736,
-          "input": 184,
-          "output": 22808,
-          "total": 9395162
+          "cacheCreation": 234996,
+          "cacheRead": 50185651,
+          "costUSD": 13.600574,
+          "input": 564,
+          "output": 84061,
+          "total": 50505272
         },
         "claude-sonnet-5": {
           "cacheCreation": 185711,
@@ -27,10 +27,10 @@
           "total": 5666959
         }
       },
-      "output": 67023,
-      "total": 15062121
+      "output": 128276,
+      "total": 56172231
     }
   },
-  "status": "partial",
+  "status": "final",
   "timezone": "Asia/Dhaka"
 }
