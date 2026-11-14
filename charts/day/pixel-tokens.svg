@@ -264,10 +264,11 @@ svg{--f:Poppins,Arial,"Helvetica Neue",sans-serif;--fs:Lora,Georgia,"Iowan Old S
 </g>
 <g class="col wip" style="animation-delay:522ms">
 <rect class="px s-claude" x="830" y="332" width="8" height="8"/>
-<rect class="px s-claude blink" x="840" y="332" width="8" height="8"/>
+<rect class="px s-claude" x="840" y="332" width="8" height="8"/>
+<rect class="px s-claude blink" x="830" y="322" width="8" height="8"/>
 </g>
 <text class="tm" x="839" y="359" font-size="10.5" text-anchor="middle" font-family="var(--fm)">11/14</text>
 <text class="tn" x="167" y="194" font-size="11" font-weight="700" text-anchor="middle">266M</text>
-<text class="tn" x="839" y="304" font-size="11" font-weight="700" text-anchor="middle">17M</text>
-<text class="tm" x="28" y="382" font-size="10.5">Generated 2026-11-14 09:47 UTC</text>
+<text class="tn" x="839" y="304" font-size="11" font-weight="700" text-anchor="middle">25M</text>
+<text class="tm" x="28" y="382" font-size="10.5">Generated 2026-11-14 15:00 UTC</text>
 </svg>
