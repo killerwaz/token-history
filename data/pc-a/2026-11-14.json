@@ -1,26 +1,26 @@
 {
-  "ccusageVersion": "20.0.50",
-  "collectedAt": "2026-11-14T09:46:51Z",
+  "ccusageVersion": "20.0.51",
+  "collectedAt": "2026-11-14T15:00:12Z",
   "date": "2026-11-14",
   "host": "pc-a",
   "sources": {
     "claude": {
-      "cacheCreation": 5459340,
-      "cacheRead": 11360629,
-      "costUSD": 35.934653,
-      "input": 118,
+      "cacheCreation": 6085115,
+      "cacheRead": 18624078,
+      "costUSD": 43.433442,
+      "input": 220,
       "models": {
         "claude-opus-5-5": {
-          "cacheCreation": 5459340,
-          "cacheRead": 11360629,
-          "costUSD": 35.934653,
-          "input": 118,
-          "output": 162180,
-          "total": 16982267
+          "cacheCreation": 6085115,
+          "cacheRead": 18624078,
+          "costUSD": 43.433442,
+          "input": 220,
+          "output": 303579,
+          "total": 25012992
         }
       },
-      "output": 162180,
-      "total": 16982267
+      "output": 303579,
+      "total": 25012992
     }
   },
   "status": "partial",
