@@ -1,0 +1,29 @@
+{
+  "ccusageVersion": "20.0.51",
+  "collectedAt": "2026-11-17T23:58:56Z",
+  "date": "2026-11-18",
+  "host": "pc-a",
+  "sources": {
+    "codex": {
+      "cacheCreation": 0,
+      "cacheRead": 14464,
+      "costUSD": 1.902554,
+      "input": 152389,
+      "models": {
+        "gpt-6-astra": {
+          "cacheCreation": 0,
+          "cacheRead": 14464,
+          "input": 152389,
+          "output": 7284,
+          "reasoningOutput": 1973,
+          "total": 174137
+        }
+      },
+      "output": 7284,
+      "reasoningOutput": 1973,
+      "total": 174137
+    }
+  },
+  "status": "partial",
+  "timezone": "Asia/Dhaka"
+}
