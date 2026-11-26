@@ -1,26 +1,26 @@
 {
   "ccusageVersion": "20.1.2",
-  "collectedAt": "2026-11-26T08:57:31Z",
+  "collectedAt": "2026-11-26T15:00:07Z",
   "date": "2026-11-26",
   "host": "pc-a",
   "sources": {
     "claude": {
-      "cacheCreation": 743022,
-      "cacheRead": 38707037,
-      "costUSD": 10.25202,
-      "input": 364,
+      "cacheCreation": 1357674,
+      "cacheRead": 61021653,
+      "costUSD": 16.162921,
+      "input": 570,
       "models": {
         "claude-sonnet-5-5": {
-          "cacheCreation": 743022,
-          "cacheRead": 38707037,
-          "costUSD": 10.25202,
-          "input": 364,
-          "output": 340850,
-          "total": 39791273
+          "cacheCreation": 1357674,
+          "cacheRead": 61021653,
+          "costUSD": 16.162921,
+          "input": 570,
+          "output": 462892,
+          "total": 62842789
         }
       },
-      "output": 340850,
-      "total": 39791273
+      "output": 462892,
+      "total": 62842789
     }
   },
   "status": "partial",
